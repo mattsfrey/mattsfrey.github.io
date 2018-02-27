@@ -13,7 +13,7 @@ title                    : "MattSFrey.com"
 title_separator          : "-"
 name                     : "Matt S. Frey"
 description              : "Software Engineering Consultant & Startup Hacker"
-url                      : https://mattsfrey.com
+url                      : "https://mattsfrey.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mattsfrey/mattsfrey.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
