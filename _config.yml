@@ -95,7 +95,7 @@ author:
   bio              : "Software Engineering Consultant & Startup Hacker"
   location         : "Boulder, CO"
   email            : "matt@mattsfrey.com"
-  uri              : "mattsfrey.com"
+  uri              : #"mattsfrey.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
