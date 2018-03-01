@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt S. Frey"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/linkedin-img.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineering Consultant & Startup Hacker"
   location         : "Boulder, CO"
   email            : "matt@mattsfrey.com"
