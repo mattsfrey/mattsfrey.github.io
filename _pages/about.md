@@ -1,13 +1,7 @@
 ---
 title: About
 permalink: /about/
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: splash
 ---
 
-Matt Frey's ABout Page
+Matt Frey's About Page
