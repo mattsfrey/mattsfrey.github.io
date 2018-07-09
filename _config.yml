@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt S. Frey"
-  avatar           : "https://vignette.wikia.nocookie.net/unanything/images/8/82/Baby_Sun.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/linkedin-img.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Consultant & Startup Hacker"
   location         : "Boulder, CO"
   email            : "matt@mattsfrey.com"
